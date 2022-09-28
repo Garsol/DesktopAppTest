@@ -1,9 +1,8 @@
-Use Github Desktop if you don't like to write commands in the bash window
-
 # Learning Github Desktop
 
 This makes things so much easier
 
+This text was added via the Desktop Github app!
 ## Contributing
 
 1. Fork it!
