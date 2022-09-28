@@ -6,7 +6,7 @@ This text was added via the Desktop Github app!
 
 This text was added via git bash, and while it's slower it's still good to know how to do this in more than one way!
 
-Look! Space!
+Look! Space! Wow!
 
 ![space](Banner.jpg "James Webb Nebula Image")
 
